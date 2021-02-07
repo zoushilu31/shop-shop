@@ -14,7 +14,7 @@ Deployed Application: [https://shop-shop-shilu.herokuapp.com/](https://shop-shop
 - [License](#license)
 
 ## Installation
-- Navigate to [https://github.com/zoushilu31/shop-shop](https://github.com/shilu/shop-shop).
+- Navigate to [https://zoushilu31.github.io/shop-shop/.]https://zoushilu31.github.io/shop-shop/.).
 - Click the 'code' button and download the zip file.
 - Unzip the file on your computer.
 
